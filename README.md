@@ -1,2 +1,2 @@
-# ML_PyTorch
+# PyTorch
 Experimenting with PyTorch
